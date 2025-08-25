@@ -73,6 +73,8 @@ These profiles are maintained to reflect current Rhombus device specifications. 
 
 These profiles are designed for use with current versions of System Surveyor and reflect the latest Rhombus device specifications. Ensure your System Surveyor installation supports the profile format before importing.
 
+To directly download these files, click [here](https://rhmbs.link/SystemSurveyorProfiles).
+
 ---
 
 *Rhombus Systems provides cloud-managed security cameras, sensors, and access control solutions designed for easy deployment and management.*
